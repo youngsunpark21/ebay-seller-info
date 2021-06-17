@@ -1,0 +1,26 @@
+{
+  "name": "ebay-seller-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngsunpark21/ebay-seller-info.git"
+  },
+  "author": "youngsunpark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngsunpark21/ebay-seller-info/issues"
+  },
+  "homepage": "https://github.com/youngsunpark21/ebay-seller-info#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.5"
+  }
+}
